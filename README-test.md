@@ -1,3 +1,7 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&count_private=false&langs_count=20" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&count_private=true&langs_count=20" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=true" />
 
 
@@ -9,7 +13,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=false&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=false&langs_count=10" />
 
 
 
@@ -26,7 +30,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&hide_progress=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&hide_progress=true&langs_count=20)
 
 
 
