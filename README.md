@@ -1,3 +1,7 @@
+### Hello World 👋
+
+This is Koutian "KT" Wu (<ruby>吴叩天 <rp>(</rp><rt>Wuā Kou Tian</rt><rp>)</rp></ruby>).
+
 各位客官们，欢迎来到这儿，很高兴认识你们！Hey there! Welcome here. How are you?
 <!-- use https://gh-stats-gen.vercel.app/ to create one dashboard -->
 ![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&hide_progress=true&langs_count=18)
