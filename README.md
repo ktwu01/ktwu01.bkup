@@ -28,7 +28,7 @@ I am …
 
 
 
-<!-- Email: ![email](attachments/email.png) -->
+<!-- Contact me at email: ![email](attachments/email.png) -->
 Email: <img src="attachments/email.png" alt="email" width="130" height="15">
 
 Profile view count:
