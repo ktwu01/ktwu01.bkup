@@ -7,7 +7,7 @@ I am 🎓 Proud Longhorn at **UT Austin** from 2024 🤘
 
 
 <!-- use https://gh-stats-gen.vercel.app/ to create one dashboard -->
-![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&hide_progress=true&langs_count=16)
+![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&hide_progress=true&langs_count=14)
 
 
 
