@@ -7,8 +7,8 @@ I am 🎓 Proud Longhorn at **UT Austin** from 2024 🤘
 
 
 <!-- use https://gh-stats-gen.vercel.app/ to create one dashboard -->
-![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&hide_progress=true&langs_count=16)
-
+![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&hide_progress=true&langs_count=14)
+<!-- Top Langs: langs_count no more than 14, or langs_count displayed can be less than 10) -->
 
 
 <!-- 
@@ -28,8 +28,8 @@ I am …
 
 
 
-<!-- Email: ![email](attachments/email.png) -->
-Email: <img src="attachments/email.png" alt="email" width="130" height="15">
+<!-- Contact me at email: ![email](attachments/email.png) -->
+Contact me at Email: <img src="attachments/email.png" alt="email" width="130" height="15">
 
 Profile view count:
   <img src="https://profile-counter.glitch.me/ktwu01/count.svg?" width="130" height="15">
