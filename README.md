@@ -29,7 +29,7 @@ I am …
 
 
 <!-- Contact me at email: ![email](attachments/email.png) -->
-Contact me at Email: <img src="attachments/email.png" alt="email" width="130" height="15">
+Contact me at Email: <img src=".assets/email.png" alt="email" width="130" height="15">
 
 Profile view count:
   <img src="https://profile-counter.glitch.me/ktwu01/count.svg?" width="130" height="15">
